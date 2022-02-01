@@ -1,3 +1,3 @@
 # projects-trybe
 
-JavaScript, React, NodeJS and other projects I've been developing mostly the past year (2020).
+Projects I've developed while studying @ <a href="betrybe.com">trybe</a>
