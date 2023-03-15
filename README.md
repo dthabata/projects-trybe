@@ -1,3 +1,3 @@
-# projects-trybe
+# my-own-projects
 
-projects I've developed while studying at Trybe.
+projects I've developed.
